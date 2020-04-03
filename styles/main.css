@@ -311,7 +311,7 @@ html {
   font-size: 58%;
 }
 body {
-  font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, opensans, Optima, 'Microsoft Yahei', sans-serif;
+  font-family: "PingFang SC", -apple-system, 'Myriad Pro', 'Microsoft Yahei', sans-serif;
   font-size: 16px;
   letter-spacing: 1.0382px;
 }
@@ -471,7 +471,7 @@ ul li {
   flex-direction: column;
 }
 .navbar {
-  padding: 38px 96px !important;
+  padding: 100px 100px !important;
 }
 .navbar .navbar-brand {
   display: flex;
@@ -534,14 +534,14 @@ ul li {
   max-width: 1000px;
 }
 .post-list-container .post-inner .post {
-  margin: 30px;
-  border-radius: 4px;
-  padding: 28px;
+  margin: 0px;
+  border-radius: 0px;
+  padding: 30px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  transition: all 0.3s;
+  transition: all 0.1s;
 }
 .post-list-container .post-inner .post .post-left {
   width: 100%;
@@ -654,8 +654,8 @@ ul li {
 }
 .post-container .post-detail {
   flex: 1;
-  padding: 20px 19px;
-  width: 1230px;
+  padding: 50px 100px;
+  width: 1300px;
   border-radius: 0px;
 }
 .post-container .post-detail .post-title {
@@ -667,13 +667,13 @@ ul li {
 .post-container .post-detail .post-info {
   text-align: left;
   font-size: 12px;
-  padding-bottom: 0px;
+  padding-bottom: 70px;
 }
 .post-container .post-detail .post-info .post-tag {
   padding: 8px 16px;
 }
 .post-container .post-detail .post-content {
-  margin-top: 30px;
+  margin-top: -10px;
 }
 .next-post {
   text-align: center;
@@ -709,22 +709,25 @@ ul li {
   }
 }
 .archives-container {
-  padding: 32px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 200px;
   display: flex;
   flex-direction: column;
 }
 .archives-container .year {
-  font-size: 34px;
-  font-weight: bold;
-  margin-top: 16px;
+  font-size: 42px;
+  font-weight: bolder;
+  margin-top: 30px;
   margin-bottom: 16px;
-  align-self: start;
+  align-self: 30px;
 }
 .archives-container .post {
-  padding: 16px 0;
+  padding: 10px 0;
 }
 .archives-container .post .post-title {
-  font-size: 16px;
+  font-size: 29.75px;
 }
 .archives-container .post .post-title small {
   font-size: 80%;
@@ -760,7 +763,7 @@ ul li {
   padding: 24px 32px;
 }
 .site-footer {
-  font-size: 12px;
+  font-size: 11px;
   text-align: center;
   padding: 24px;
 }
@@ -1730,7 +1733,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-bg-theme-color-second {
-          background: #ffffff!important;
+          background: #f1f3f5!important;
         }
         
         .gt-bg-content-color-first {
@@ -1754,7 +1757,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-c-theme-color-second {
-          color: #ffffff!important;
+          color: #f1f3f5!important;
         }
         
         .gt-c-content-color-first {
@@ -1785,20 +1788,20 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
           display: inline-block;
           color: #333333!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,1) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
           color: #333333!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,1) 0)!important;
         }
         
         .gt-a-link {
           color: #333333!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(246,12,62,1) 0)!important;
         }
         
         .gt-post-content a {
