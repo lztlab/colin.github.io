@@ -372,7 +372,7 @@ ul li {
   display: block;
   max-width: 100%;
   border-radius: 0px;
-  margin: 0px auto;
+  margin: -18px;
 }
 .gt-post-content p {
   line-height: 1.725;
@@ -652,9 +652,9 @@ ul li {
 }
 .post-container .post-detail {
   flex: 1;
-  padding: 24px 32px;
-  width: 1000px;
-  border-radius: 4px;
+  padding: 20px 19px;
+  width: 1230px;
+  border-radius: 0px;
 }
 .post-container .post-detail .post-title {
   font-size: 26px;
