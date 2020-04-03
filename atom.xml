@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-03T03:01:45.933Z</updated>
+    <updated>2020-04-03T05:35:51.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://lztlab.github.io/images/avatar.png</logo>
     <icon>https://lztlab.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[COOC BOX]]></title>
+        <id>https://lztlab.github.io/post/cooc-box/</id>
+        <link href="https://lztlab.github.io/post/cooc-box/">
+        </link>
+        <updated>2020-04-03T05:34:12.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://lztlab.github.io/post-images/1585892063358.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892073022.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892080515.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892086406.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892092049.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892097713.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892102596.png" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892111624.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892118282.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892124003.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892130066.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892135496.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1585892141244.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COOC FORMULA]]></title>
         <id>https://lztlab.github.io/post/cooc-formula/</id>
