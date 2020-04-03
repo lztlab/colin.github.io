@@ -717,20 +717,23 @@ ul li {
   flex-direction: column;
 }
 .archives-container .year {
-  font-size: 42px;
-  font-weight: bolder;
-  margin-top: 30px;
-  margin-bottom: 16px;
-  align-self: 30px;
+  font-size: 37px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  align-self: auto;
 }
 .archives-container .post {
-  padding: 10px 0;
+  padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 50px;
 }
 .archives-container .post .post-title {
   font-size: 29.75px;
 }
 .archives-container .post .post-title small {
-  font-size: 80%;
+  font-size: 70%;
 }
 @media (max-width: 600px) {
   .archives-container {
