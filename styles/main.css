@@ -659,15 +659,15 @@ ul li {
   border-radius: 0px;
 }
 .post-container .post-detail .post-title {
-  font-size: 26px;
-  text-align: center;
-  padding: 24px;
-  font-weight: normal;
+  font-size: 42.5px;
+  text-align: left;
+  padding: 0px;
+  font-weight: bold;
 }
 .post-container .post-detail .post-info {
-  text-align: center;
+  text-align: left;
   font-size: 12px;
-  padding-bottom: 24px;
+  padding-bottom: 0px;
 }
 .post-container .post-detail .post-info .post-tag {
   padding: 8px 16px;
