@@ -509,7 +509,7 @@ ul li {
 }
 @media (max-width: 750px) {
   .navbar {
-    padding: 15px 0px 0 10px !important;
+    padding: 15px 10px 15px 10px !important;
   }
   .navbar .navbar-brand .user-avatar {
     width: 31px;
@@ -699,7 +699,7 @@ ul li {
 @media (max-width: 750px) {
   .post-container .post-detail {
     width: 130%;
-    margin-top: -30px;
+    margin-top: 0px;
   }
   .post-container .post-detail .post-title {
     font-size: 20px;
