@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
-    <title>Hi there, I&apos;m Lu, Just Another ID Designer.</title>
-    <updated>2020-04-06T06:04:27.693Z</updated>
+    <title>Hi there, I&apos;m Lu, just another DESIGNER.</title>
+    <updated>2020-04-06T06:18:48.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
     <subtitle>© 2020 LZT.LAB 保留所有权利</subtitle>
     <logo>https://lztlab.github.io/images/avatar.png</logo>
     <icon>https://lztlab.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Hi there, I&apos;m Lu, Just Another ID Designer.</rights>
+    <rights>All rights reserved 2020, Hi there, I&apos;m Lu, just another DESIGNER.</rights>
     <entry>
         <title type="html"><![CDATA[COOC BOX]]></title>
         <id>https://lztlab.github.io/post/cooc-box/</id>

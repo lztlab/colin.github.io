@@ -489,7 +489,7 @@ ul li {
 .navbar .navbar-brand .site-name {
   font-size: 28px !important;
   font-weight: bold;
-  margin-left: 5px;
+  margin-left: 0px;
 }
 .navbar .navbar-nav {
   width: 100%;
