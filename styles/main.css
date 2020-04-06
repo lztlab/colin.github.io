@@ -506,7 +506,7 @@ ul li {
 }
 @media (max-width: 750px) {
   .navbar {
-    padding: 30px 10px 0 30px !important;
+    padding: 20px 0px 0 20px !important;
   }
   .navbar .navbar-brand .user-avatar {
     width: 31px;
@@ -521,7 +521,7 @@ ul li {
     padding: 16px 32px;
   }
   .navbar .nav-item:first-child {
-    margin-top: 35px;
+    margin-top: 20px;
   }
 }
 .post-list-container {
