@@ -657,7 +657,7 @@ ul li {
 }
 .post-container .post-detail {
   flex: 1;
-  padding: 50px 100px;
+  padding: 50px 50px;
   width: 1300px;
   border-radius: 0px;
 }
