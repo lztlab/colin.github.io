@@ -698,7 +698,7 @@ ul li {
 }
 @media (max-width: 991px) {
   .post-container .post-detail {
-    width: 130%;
+    width: 110%;
     margin-top: 0px;
   }
   .post-container .post-detail .post-title {
