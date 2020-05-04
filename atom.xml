@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
     <title>Hi there, I&apos;m Lu, just another DESIGNER.</title>
-    <updated>2020-05-04T09:41:13.219Z</updated>
+    <updated>2020-05-04T10:30:55.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
@@ -29,7 +29,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ IN PROGRESS ] RIDEZ STEAM SELF-DRIVING]]></title>
+        <title type="html"><![CDATA[[進行中] RIDEZ STEAM SELF-DRIVING]]></title>
         <id>https://lztlab.github.io/post/ridez-steam-self-driving/</id>
         <link href="https://lztlab.github.io/post/ridez-steam-self-driving/">
         </link>
