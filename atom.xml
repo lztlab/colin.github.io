@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
     <title>Hi there, I&apos;m Lu, just another DESIGNER.</title>
-    <updated>2020-05-07T11:09:03.814Z</updated>
+    <updated>2020-05-08T13:52:19.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
@@ -34,7 +34,9 @@
         <link href="https://lztlab.github.io/post/ridez-steam-self-driving/">
         </link>
         <updated>2020-02-28T08:31:34.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lztlab.github.io/post-images/1588238269029.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://lztlab.github.io/post-images/1588945902762.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1588945916166.JPG" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1588238269029.jpg" alt="" loading="lazy"><br>
 📝<br>
 这是一款用于STEAM教育的玩具车，儿童可以独立拼装及编程此产品。产品的动力和转向系统完全模拟了真实的汽车，儿童可以在动手拼装的过程中学习汽车相关的机械知识。相比我此前为RIDEZ设计的可真实驾驶的STEAM FORMULA，这款车大小只有15寸，所以机械知识并不是它的重点。车身四周及顶部布置了4个超声波雷达和一个红外探测器，我们希望小朋友可以通过学习编程实现小车的无人驾驶。</p>
 <hr>
