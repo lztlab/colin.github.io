@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
     <title>Hi there, I&apos;m Lu, just another DESIGNER.</title>
-    <updated>2020-05-10T12:53:21.088Z</updated>
+    <updated>2020-05-13T14:17:30.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://lztlab.github.io/images/avatar.png</logo>
     <icon>https://lztlab.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hi there, I&apos;m Lu, just another DESIGNER.</rights>
+    <entry>
+        <title type="html"><![CDATA[「自娛自樂」一個案頭風扇]]></title>
+        <id>https://lztlab.github.io/post/fengshan/</id>
+        <link href="https://lztlab.github.io/post/fengshan/">
+        </link>
+        <updated>2020-05-13T13:22:50.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="夏天到了离开地球表面消消暑吧">夏天到了，离开地球表面消消暑吧🌒</h2>
+<p><img src="https://lztlab.github.io/post-images/1589376290056.jpg" alt="" loading="lazy"><br>
+<img src="https://lztlab.github.io/post-images/1589376298934.JPG" alt="" loading="lazy"></p>
+<hr>
+<p>模型就不建啦，有时间ps画个效果图吧🌚</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COOC TOY CAR]]></title>
         <id>https://lztlab.github.io/post/cooc-toy-car/</id>
@@ -29,7 +42,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[進行中] RIDEZ STEAM SELF-DRIVING]]></title>
+        <title type="html"><![CDATA[「進行中」RIDEZ STEAM SELF-DRIVING]]></title>
         <id>https://lztlab.github.io/post/ridez-steam-self-driving/</id>
         <link href="https://lztlab.github.io/post/ridez-steam-self-driving/">
         </link>
