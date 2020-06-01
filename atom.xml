@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztlab.github.io</id>
     <title>Hi there, I&apos;m Lu, just another DESIGNER.</title>
-    <updated>2020-05-24T07:28:59.803Z</updated>
+    <updated>2020-06-01T14:03:32.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztlab.github.io"/>
     <link rel="self" href="https://lztlab.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://lztlab.github.io/post/chu-hao-ji/">
         </link>
         <updated>2020-05-23T10:30:55.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lztlab.github.io/post-images/1590230138725.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://lztlab.github.io/post-images/1591020192968.jpg" alt="" loading="lazy"><br>
 <img src="https://lztlab.github.io/post-images/1590230147036.jpg" alt="" loading="lazy"><br>
 <img src="https://lztlab.github.io/post-images/1590230155496.jpg" alt="" loading="lazy"><br>
 <img src="https://lztlab.github.io/post-images/1590230162987.jpg" alt="" loading="lazy"><br>
@@ -57,7 +57,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「進行中」RIDEZ STEAM SELF-DRIVING]]></title>
+        <title type="html"><![CDATA[RIDEZ STEAM SELF-DRIVING]]></title>
         <id>https://lztlab.github.io/post/ridez-steam-self-driving/</id>
         <link href="https://lztlab.github.io/post/ridez-steam-self-driving/">
         </link>
