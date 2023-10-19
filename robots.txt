@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lztlab.github.io/sitemap.xml
